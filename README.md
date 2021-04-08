@@ -63,6 +63,7 @@ A documentação da API deste projeto está sendo construída com o Swagger e en
 - Docker com Docker Compose
 - Postgres
 - Postbird ou Beekeeper
+- Insomnia
 
 2 - Para rodar a aplicação, realize cada uma das etapas abaixo no terminal:
 

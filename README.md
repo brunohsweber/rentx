@@ -28,9 +28,9 @@ RentX é um projeto que está sendo desenvolvido nas aulas do bootcamp de Node.j
 
 O objetivo deste projeto é de construir uma API completa para aluguéis de carros, daí a origem do nome _RentX_.
 
-Resumidamente, este projeto possibilita o gerenciamento completo de usuários, carros e alugueis.
+Resumidamente, este projeto possibilita o gerenciamento completo de usuários, carros e aluguéis.
 
-A construção do RentX tem como objetivo também aprender conceitos avançados de uma API e conhecer ferramentas e tecnologias para construir aplicações robustas, flexíveis e escaláveis com o uso do Node.js. E, para garantir a integralidade do código, foi está sendo utilizada a linguagem Typescript.
+A construção do RentX tem como objetivo também aprender conceitos avançados de uma API e conhecer ferramentas e tecnologias para construir aplicações robustas, flexíveis e escaláveis com o uso do Node.js. E, para garantir a integralidade do código, está sendo utilizada a linguagem Typescript.
 
 Este projeto está sendo desenvolvido aos poucos. A cada avanço nos módulos do treinamento é proposto um novo desafio para aumentar a complexidade e funcionalidades desta aplicação.
 

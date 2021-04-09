@@ -92,7 +92,7 @@ $ yarn test
 # Para verificar a documentação que está em construção, acesse no navegador:
 http://localhost:3333/api-docs/
 ```
-**Para acessar as rotas já configuradas, é possível importar o arquivo JSON no Insomnia:** 
+**Para acessar as rotas já configuradas pelo Insomnia, é possível importar o arquivo JSON:** 
 [Clique aqui para fazer o download do arquivo JSON](https://drive.google.com/file/d/1kWhdBlbPM3H-xWjGB3Q6Y2CNNEnWIL7H/view?usp=sharing)
 
 <br>

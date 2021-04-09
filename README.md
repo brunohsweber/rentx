@@ -93,13 +93,15 @@ $ yarn test
 http://localhost:3333/api-docs/
 ```
 **Para acessar as rotas já configuradas pelo Insomnia, é possível importar o arquivo JSON:** 
-[Clique aqui para fazer o download do arquivo JSON](https://drive.google.com/file/d/1kWhdBlbPM3H-xWjGB3Q6Y2CNNEnWIL7H/view?usp=sharing)
+[Clique aqui para fazer o download do arquivo JSON](https://drive.google.com/file/d/1vZarJXXk4mMvNw5fw2SALizO_3ITM5h4/view?usp=sharing)
 
 <br>
 
 ## :warning: Informações Importantes
 
 Este projeto ainda está **em desenvolvimento** e novas features serão lançadas nas próximas semanas.
+
+#### ÚLTIMA *FEATURE* LANÇADA: Criação de aluguel (create rental)
 
 <br>
 
